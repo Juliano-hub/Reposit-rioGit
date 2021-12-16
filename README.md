@@ -1,2 +1,2 @@
 # Testes-Cursos-React
-Códigos feitos atráves do curso DIO react
+Códigos feitos atráves dos cursos da DIO sobre react
